@@ -1,0 +1,44 @@
+h1,h2,h3,h4,h5,h6 {
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+    font-family:inherit;
+    font-weight:500;
+    line-height:1.2;
+    color:inherit
+}
+
+h1{
+    font-size:3rem
+}
+h2{
+    font-size:2.5rem
+}
+h3{
+    font-size:2rem
+}
+h4{
+    font-size:1.75rem
+}
+h5{
+    font-size:1.5rem
+}
+h6{
+    font-size:1rem
+}
+
+.t-left{
+
+    text-align: left;
+}
+.t-center {
+
+    text-align: center;
+}
+.t-right {
+
+    text-align: right;
+}
+
+small{
+    font-size: 0.75rem;
+}
